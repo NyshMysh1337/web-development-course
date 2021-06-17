@@ -1,0 +1,84 @@
+.button {
+  height: 55px; 
+  width: 165px;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: auto;
+  margin: 5px 8px 5px 8px;
+  outline: none;
+  border: 3px solid;
+  background: #fff; 
+  color: #a2a2a2;
+  border-color: #a2a2a2 ;
+  transition: 0.5s;
+}
+.button-large {
+  border-radius: 8px;
+}
+.button-rounded {
+  border-radius: 100px;
+}
+.button.button-filled {
+  background: #a2a2a2;
+}
+.button-primary {	
+  background: #fff; 
+  border-color: #8B008B;
+  color: #8B008B; 
+  height: 40px; 
+  width: 120px;
+}
+.button-primary.button-filled {
+  background: #8B008B; 
+}
+.button-success {
+  background: #fff; 
+  border-color: #32CD32;
+  color: #32CD32; 
+  height: 39px; 
+  width: 117px;
+}
+.button-success.button-filled {
+  background: #32CD32;
+}
+.button-medium {
+  font-size: 12px;
+  background: #fff; 
+  border-color: #00BFFF;
+  color: #00BFFF; 
+  height: 32px; 
+  width: 96px;
+}
+.button-medium.button-filled {
+  background: #00BFFF;
+}
+.button-warning {
+  font-size: 10px;
+  background: #fff; 
+  border-color: #FFD700;
+  color: #FFD700; 
+  height: 31px; 
+  width: 93px;
+}
+.button-warning.button-filled {
+  background: #FFD700;
+}
+.button-red {
+  font-size: 12px;
+  background: #fff; 
+  border-color: #FF0000;
+  color: #FF0000; 
+  height: 25px; 
+  width: 75px;
+}
+.button-red.button-filled {
+  background: #FF0000;
+}
+.button.button-larged {
+  background: #000;
+  border-color: #000;
+}
+.button-filled{	
+  color: white; 
+}
